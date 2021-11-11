@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is Faizan Anwar. I made this project using HTML, BOOTSTRAP, RUBY & RAILS
 
-Things you may want to cover:
+App Features:
 
-* Ruby version
+* Sign In/Out/Up
 
-* System dependencies
+* Password Hash, User Authentication, Forgot Password.
 
-* Configuration
+* Add Friend, List of Friend
 
-* Database creation
+* Edit, Delete Feature
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* ...many more
